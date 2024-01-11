@@ -13,7 +13,7 @@ Hi there! I'm a third year student at Amrita Vishwa Vidhyapeetham, and I'm reall
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul2003g&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Gokul26801715)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=gokul_carbide)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
