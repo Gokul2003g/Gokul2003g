@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a third year student at Amrita Vishwa Vidhyapeetham, and I'm really passionate about Linux and open source software. I'm excited about the possibility of contributing to the open source community and giving back to this amazing community that has helped me learn so much. I'm currently learning web development, focusing specifically on ReactJS, which I find fascinating. I'm always eager to learn and improve my skills, and I'm looking forward to making a meaningful impact in the world of open source.<br><br><br><br><br><br>
+Hi there! I'm a final year student at Amrita Vishwa Vidhyapeetham, and I'm really passionate about Linux and open source software. I'm excited about the possibility of contributing to the open source community and giving back to this amazing community that has helped me learn so much. I'm currently learning web development, focusing specifically on ReactJS, which I find fascinating. I'm always eager to learn and improve my skills, and I'm looking forward to making a meaningful impact in the world of open source.<br><br><br><br><br><br>
 
 [![An image of @gokul2003g's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gokul2003g)](https://holopin.io/@gokul2003g)
 
