@@ -75,6 +75,8 @@ Hey, I’m Gokul 👋 | Full-stack dev 🚀 | Exploring Web3 🌐 | Avoiding dis
 </p>
 
 ---
+## 🫶 Support Me:
+
 <p align="center">
   <a href="https://www.paypal.com/paypalme/gokulcarbide">
     <img src="https://img.shields.io/badge/Donate-PayPal-0070ba?style=for-the-badge&logo=paypal" alt="PayPal"/>
